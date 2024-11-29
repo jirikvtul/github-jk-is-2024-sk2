@@ -16,6 +16,11 @@ Console.WriteLine();
         while(!uint.TryParse(Console.ReadLine(), out cislo)) {
             Console.Write("Špatný vstup. Zadejte číslo v desítkové soustavě pro převod (přirozené):  ");    
         }
+        Console.Write("Zadejte soustavu ve které chcete počítat (číslo): ");
+        uint cislo_soustavy;
+        while(!uint.TryParse(Console.ReadLine(), out cislo_soustavy)) {
+            Console.Write("Špatný vstup. Zadejte číslo soustavy:  ");    
+        }
 
         uint[] myArray = new uint[32];
         uint zaloha = cislo;    
@@ -23,8 +28,8 @@ Console.WriteLine();
 
         uint i=0;
         while(cislo > 0){
-            zbytek = cislo % 2;
-            cislo = (cislo - zbytek) /  2;
+            zbytek = cislo % cislo_soustavy;
+            cislo = (cislo - zbytek) /  cislo_soustavy;
             myArray[i] = zbytek;
 
             Console.ForegroundColor = ConsoleColor.Blue;
