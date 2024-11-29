@@ -1,0 +1,15 @@
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.AssemblyInfoInputs.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.AssemblyInfo.cs
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.csproj.CoreCompileInputs.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.sourcelink.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.exe
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.deps.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.runtimeconfig.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\bin\Debug\net9.0\program014a-10to2.pdb
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\refint\program014a-10to2.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.pdb
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\program014a-10to2.genruntimeconfig.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program014a-10to2\obj\Debug\net9.0\ref\program014a-10to2.dll
