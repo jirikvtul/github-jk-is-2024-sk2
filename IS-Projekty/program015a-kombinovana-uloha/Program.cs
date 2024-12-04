@@ -124,14 +124,22 @@
                 Console.Write("{0},", myArray[i]);
             }
 
+<<<<<<< HEAD
             int median;
+=======
+            double median;
+>>>>>>> 21210ea7c7cfb7bfea02ab7d3b142b51d418db32
             if(n % 2 != 0){
                 // Lichý počet prvků
                 median = myArray[n / 2];
             }
             else{
                 // Sudý počet prvků
+<<<<<<< HEAD
                 median = (myArray[n / 2 - 1] + myArray[n / 2]) / 2;
+=======
+                median = (myArray[n / 2 - 1] + myArray[n / 2]) / 2.0;
+>>>>>>> 21210ea7c7cfb7bfea02ab7d3b142b51d418db32
             }
             int temp2 = max_4;
             int[] mojeRada = new int[32];
@@ -159,6 +167,7 @@
             Console.WriteLine("Čtvrté největší číslo: {0}", max_4);
 
             Console.WriteLine("\nMedián: {0}", median);
+<<<<<<< HEAD
             // Převod do dvojkové soustavy
             for(int j = k; j > 0; j--){
                 Console.Write("{0}", mojeRada[j-1]);
@@ -240,6 +249,15 @@
                 }
                 Console.WriteLine();
             }
+=======
+
+            for(int j = k; j > 0; j--){
+                Console.Write("{0}", mojeRada[j-1]);
+            }
+
+
+
+>>>>>>> 21210ea7c7cfb7bfea02ab7d3b142b51d418db32
             // Opakování programu
             Console.WriteLine("\n\nChcete program opakovat y/n?: ");
             again = Console.ReadLine();
