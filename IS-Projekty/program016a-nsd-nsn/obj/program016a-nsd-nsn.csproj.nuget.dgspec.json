@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub - VSCODE\\github-jk-is-2024-sk2\\IS-Projekty\\program016a-nsd-nsn\\program016a-nsd-nsn.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub - VSCODE\\github-jk-is-2024-sk2\\IS-Projekty\\program016a-nsd-nsn\\program016a-nsd-nsn.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub - VSCODE\\github-jk-is-2024-sk2\\IS-Projekty\\program016a-nsd-nsn\\program016a-nsd-nsn.csproj",
+        "projectName": "program016a-nsd-nsn",
+        "projectPath": "C:\\GitHub - VSCODE\\github-jk-is-2024-sk2\\IS-Projekty\\program016a-nsd-nsn\\program016a-nsd-nsn.csproj",
+        "packagesPath": "C:\\Users\\Jiřik\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub - VSCODE\\github-jk-is-2024-sk2\\IS-Projekty\\program016a-nsd-nsn\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jiřik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
