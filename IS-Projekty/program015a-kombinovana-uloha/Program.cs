@@ -124,22 +124,14 @@
                 Console.Write("{0},", myArray[i]);
             }
 
-<<<<<<< HEAD
             int median;
-=======
-            double median;
->>>>>>> 21210ea7c7cfb7bfea02ab7d3b142b51d418db32
             if(n % 2 != 0){
                 // Lichý počet prvků
                 median = myArray[n / 2];
             }
             else{
                 // Sudý počet prvků
-<<<<<<< HEAD
                 median = (myArray[n / 2 - 1] + myArray[n / 2]) / 2;
-=======
-                median = (myArray[n / 2 - 1] + myArray[n / 2]) / 2.0;
->>>>>>> 21210ea7c7cfb7bfea02ab7d3b142b51d418db32
             }
             int temp2 = max_4;
             int[] mojeRada = new int[32];
@@ -167,63 +159,30 @@
             Console.WriteLine("Čtvrté největší číslo: {0}", max_4);
 
             Console.WriteLine("\nMedián: {0}", median);
-<<<<<<< HEAD
             // Převod do dvojkové soustavy
             for(int j = k; j > 0; j--){
                 Console.Write("{0}", mojeRada[j-1]);
             }
             Console.WriteLine("\n\n");
             
-            // // Pro sudý median, lichý max_3 
-            // int temp_median = 6;
-            // int temp_max_3 = 7;
-            // // Horní část
-            // for(int i = 0; i < (temp_median/2)-1; i++){
-            //     for(int m = 0; m < temp_median/3;m++){
-            //         Console.Write("  ");
-            //     }
-            //     for(int j = 0; j <= temp_median/3; j++){
-            //         Console.Write(" *");
-            //         }
-            //     Console.WriteLine();
-            // }
-
-            // //Prostřední část
-            // for(int i = temp_median/3; i < temp_median-(temp_median/3); i++){
-            //     for(int j = 0; j < temp_max_3;j++){
-            //         Console.Write(" *");  
-            //     }
-            //     Console.WriteLine();
-            // }
-            // // Dolní část
-            // for(int i = temp_median-2; i < temp_median; i++){
-            //     for(int m = 0; m < temp_median/3;m++){
-            //         Console.Write("  ");
-            //     }
-            //     for(int j = 0; j <= temp_median/3; j++){
-            //         Console.Write(" *");
-            //     }
-            //     Console.WriteLine();
-            // }
-            
-            int temp_median_2 = 6;
-            int temp_max_3_2 = 7;
+            int temp_median_2 = median;
+            int temp_max_3_2 = max_3;
             int prostredni_cast;
             int pocet_hvezdicek;
-            if(temp_median_2 % 2 == 1){
-                prostredni_cast = temp_max_3_2/2;
-                pocet_hvezdicek = temp_median_2/3+1;
+            if(temp_median_2 % 2 == 0 && temp_max_3_2 % 2 == 1){
+                prostredni_cast = temp_median_2/3;
+                pocet_hvezdicek = temp_median_2/2;
             }
             else{
-                prostredni_cast = temp_max_3_2/3;
-                pocet_hvezdicek = temp_median_2/3;
+                 prostredni_cast = temp_max_3_2/2;
+                 pocet_hvezdicek = temp_median_2/3;
             }
             
             int horni_dolni_cast = 2;
             
             // Horní část
             for(int i = 0; i < horni_dolni_cast; i++){
-                for(int m = 0; m < pocet_hvezdicek;m++){
+                for(int m = 0; m < horni_dolni_cast;m++){
                     Console.Write("  ");
                 }
                 for(int j = 0; j < pocet_hvezdicek; j++){
@@ -241,7 +200,7 @@
             }
             // Dolní část
             for(int i = 0; i < horni_dolni_cast; i++){
-                for(int m = 0; m < pocet_hvezdicek;m++){
+                for(int m = 0; m < horni_dolni_cast;m++){
                     Console.Write("  ");
                 }
                 for(int j = 0; j < pocet_hvezdicek; j++){
@@ -249,15 +208,6 @@
                 }
                 Console.WriteLine();
             }
-=======
-
-            for(int j = k; j > 0; j--){
-                Console.Write("{0}", mojeRada[j-1]);
-            }
-
-
-
->>>>>>> 21210ea7c7cfb7bfea02ab7d3b142b51d418db32
             // Opakování programu
             Console.WriteLine("\n\nChcete program opakovat y/n?: ");
             again = Console.ReadLine();
