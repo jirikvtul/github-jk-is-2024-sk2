@@ -1,0 +1,15 @@
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\bin\Debug\net9.0\program018-2D-pole.exe
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\bin\Debug\net9.0\program018-2D-pole.deps.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\bin\Debug\net9.0\program018-2D-pole.runtimeconfig.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\bin\Debug\net9.0\program018-2D-pole.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\bin\Debug\net9.0\program018-2D-pole.pdb
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.AssemblyInfoInputs.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.AssemblyInfo.cs
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.csproj.CoreCompileInputs.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.sourcelink.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\refint\program018-2D-pole.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.pdb
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\program018-2D-pole.genruntimeconfig.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program018-2D-pole\obj\Debug\net9.0\ref\program018-2D-pole.dll
