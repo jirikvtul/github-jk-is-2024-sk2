@@ -1,0 +1,15 @@
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\bin\Debug\net9.0\program017-fibonnaciho-posloupnost.exe
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\bin\Debug\net9.0\program017-fibonnaciho-posloupnost.deps.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\bin\Debug\net9.0\program017-fibonnaciho-posloupnost.runtimeconfig.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\bin\Debug\net9.0\program017-fibonnaciho-posloupnost.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\bin\Debug\net9.0\program017-fibonnaciho-posloupnost.pdb
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.AssemblyInfoInputs.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.AssemblyInfo.cs
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.csproj.CoreCompileInputs.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.sourcelink.json
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\refint\program017-fibonnaciho-posloupnost.dll
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.pdb
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\program017-fibonnaciho-posloupnost.genruntimeconfig.cache
+C:\GitHub - VSCODE\github-jk-is-2024-sk2\IS-Projekty\program017-fibonnaciho-posloupnost\obj\Debug\net9.0\ref\program017-fibonnaciho-posloupnost.dll
